@@ -1,7 +1,7 @@
 module.exports = {
-  add,
+  add
 };
 
-function add() {
-  return null;
+function add(x, y) {
+  return x + y;
 }
