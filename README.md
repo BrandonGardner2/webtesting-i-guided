@@ -1,6 +1,6 @@
 # Hubs Web API
 
-Guided project for **Web Testing I** module.
+Guided project for **Web Testing I** module..
 
 In this module we will cover the basics of automated testing and use `jest` to write unit tests.
 
