@@ -2,6 +2,6 @@ module.exports = {
   add
 };
 
-function add(x, y) {
-  return x + y;
+function add(...args) {
+  return args.reduce((sum, cur) => sum + cur, 0);
 }
